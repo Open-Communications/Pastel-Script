@@ -1,0 +1,30 @@
+c:\users\dean\source\repos\GLUploader\GLUploader\bin\Debug\GLUploader.exe.config
+c:\users\dean\source\repos\GLUploader\GLUploader\bin\Debug\GLUploader.exe
+c:\users\dean\source\repos\GLUploader\GLUploader\bin\Debug\GLUploader.pdb
+c:\users\dean\source\repos\GLUploader\GLUploader\obj\Debug\GLUploader.csprojResolveAssemblyReference.cache
+c:\users\dean\source\repos\GLUploader\GLUploader\obj\Debug\GLUploader.Properties.Resources.resources
+c:\users\dean\source\repos\GLUploader\GLUploader\obj\Debug\GLUploader.csproj.GenerateResource.cache
+c:\users\dean\source\repos\GLUploader\GLUploader\obj\Debug\GLUploader.csproj.CoreCompileInputs.cache
+c:\users\dean\source\repos\GLUploader\GLUploader\obj\Debug\GLUploader.exe
+c:\users\dean\source\repos\GLUploader\GLUploader\obj\Debug\GLUploader.pdb
+c:\users\dean\source\repos\GLUploader\GLUploader\obj\Debug\GLUploader.Form1.resources
+C:\Users\Dean Symington\Documents\Business\RockSoft\Visual Studio Projects\Open Communications\GL Uploader 2\GLUploader\bin\Debug\GLUploader.exe.config
+C:\Users\Dean Symington\Documents\Business\RockSoft\Visual Studio Projects\Open Communications\GL Uploader 2\GLUploader\bin\Debug\GLUploader.exe
+C:\Users\Dean Symington\Documents\Business\RockSoft\Visual Studio Projects\Open Communications\GL Uploader 2\GLUploader\bin\Debug\GLUploader.pdb
+C:\Users\Dean Symington\Documents\Business\RockSoft\Visual Studio Projects\Open Communications\GL Uploader 2\GLUploader\obj\Debug\GLUploader.csproj.AssemblyReference.cache
+C:\Users\Dean Symington\Documents\Business\RockSoft\Visual Studio Projects\Open Communications\GL Uploader 2\GLUploader\obj\Debug\GLUploader.Form1.resources
+C:\Users\Dean Symington\Documents\Business\RockSoft\Visual Studio Projects\Open Communications\GL Uploader 2\GLUploader\obj\Debug\GLUploader.Properties.Resources.resources
+C:\Users\Dean Symington\Documents\Business\RockSoft\Visual Studio Projects\Open Communications\GL Uploader 2\GLUploader\obj\Debug\GLUploader.csproj.GenerateResource.cache
+C:\Users\Dean Symington\Documents\Business\RockSoft\Visual Studio Projects\Open Communications\GL Uploader 2\GLUploader\obj\Debug\GLUploader.csproj.CoreCompileInputs.cache
+C:\Users\Dean Symington\Documents\Business\RockSoft\Visual Studio Projects\Open Communications\GL Uploader 2\GLUploader\obj\Debug\GLUploader.exe
+C:\Users\Dean Symington\Documents\Business\RockSoft\Visual Studio Projects\Open Communications\GL Uploader 2\GLUploader\obj\Debug\GLUploader.pdb
+C:\Users\Dean Symington\Documents\Business\RockSoft\Visual Studio Projects\Open Communications\GL Uploader\GLUploader\bin\Debug\GLUploader.exe.config
+C:\Users\Dean Symington\Documents\Business\RockSoft\Visual Studio Projects\Open Communications\GL Uploader\GLUploader\bin\Debug\GLUploader.exe
+C:\Users\Dean Symington\Documents\Business\RockSoft\Visual Studio Projects\Open Communications\GL Uploader\GLUploader\bin\Debug\GLUploader.pdb
+C:\Users\Dean Symington\Documents\Business\RockSoft\Visual Studio Projects\Open Communications\GL Uploader\GLUploader\obj\Debug\GLUploader.csproj.AssemblyReference.cache
+C:\Users\Dean Symington\Documents\Business\RockSoft\Visual Studio Projects\Open Communications\GL Uploader\GLUploader\obj\Debug\GLUploader.Form1.resources
+C:\Users\Dean Symington\Documents\Business\RockSoft\Visual Studio Projects\Open Communications\GL Uploader\GLUploader\obj\Debug\GLUploader.Properties.Resources.resources
+C:\Users\Dean Symington\Documents\Business\RockSoft\Visual Studio Projects\Open Communications\GL Uploader\GLUploader\obj\Debug\GLUploader.csproj.GenerateResource.cache
+C:\Users\Dean Symington\Documents\Business\RockSoft\Visual Studio Projects\Open Communications\GL Uploader\GLUploader\obj\Debug\GLUploader.csproj.CoreCompileInputs.cache
+C:\Users\Dean Symington\Documents\Business\RockSoft\Visual Studio Projects\Open Communications\GL Uploader\GLUploader\obj\Debug\GLUploader.exe
+C:\Users\Dean Symington\Documents\Business\RockSoft\Visual Studio Projects\Open Communications\GL Uploader\GLUploader\obj\Debug\GLUploader.pdb

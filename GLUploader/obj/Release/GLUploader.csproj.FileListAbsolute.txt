@@ -1,0 +1,9 @@
+C:\Users\Dean\source\repos\GLUploader\GLUploader\bin\Release\GLUploader.exe.config
+C:\Users\Dean\source\repos\GLUploader\GLUploader\bin\Release\GLUploader.exe
+C:\Users\Dean\source\repos\GLUploader\GLUploader\bin\Release\GLUploader.pdb
+C:\Users\Dean\source\repos\GLUploader\GLUploader\obj\Release\GLUploader.Form1.resources
+C:\Users\Dean\source\repos\GLUploader\GLUploader\obj\Release\GLUploader.Properties.Resources.resources
+C:\Users\Dean\source\repos\GLUploader\GLUploader\obj\Release\GLUploader.csproj.GenerateResource.Cache
+C:\Users\Dean\source\repos\GLUploader\GLUploader\obj\Release\GLUploader.csproj.CoreCompileInputs.cache
+C:\Users\Dean\source\repos\GLUploader\GLUploader\obj\Release\GLUploader.exe
+C:\Users\Dean\source\repos\GLUploader\GLUploader\obj\Release\GLUploader.pdb
